@@ -1,6 +1,8 @@
-Screenshots of commands:
-<!-- https://monosnap.com/list/63e6299eab96ac928ccd9ad1 -->
-Use this commands to check:
+# Screenshots of commands:
+
+https://monosnap.com/list/63e6299eab96ac928ccd9ad1;
+
+# Use this commands to check:
 
 - node index.js --action list
 - node index.js --action get --id 6
